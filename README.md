@@ -10,7 +10,7 @@ This model is a finetuned version of ```Sharathhebbar24/chat_gpt2``` using ```In
 - T4
 - 29GB RAM
 
-3. It took around 47 mins to train the model for 3 epochs with a loss of 1.5.
+3. It took around 21 mins to train the model for 3 epochs with a loss of 0.005.
 
 4. It was trained on FP16 bit architecture with a batch size of 2.
 
